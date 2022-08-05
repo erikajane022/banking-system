@@ -1,0 +1,13 @@
+
+e
+java:S1128	"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿHØRMINORZ
+CODE_SMELL
+`
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæHHÔRMINORZ
+CODE_SMELL
+s
+java:S1128"GRemove this unused import 'org.hibernate.annotations.GenericGenerator'.(ƒÝŸÉHÚRMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚HÖRMINORZ
+CODE_SMELL

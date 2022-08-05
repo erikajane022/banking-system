@@ -1,0 +1,14 @@
+
+è
+java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "userAccount".(Ã›à¥HáRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ª™ï™HäRMAJORZ
+CODE_SMELL
+S
+java:S1905"'Remove this unnecessary cast to "List".(ˆ«⁄çHãRMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ª†ÊûˇˇˇˇˇHçRINFOZ
+CODE_SMELL
+g	java:S125+"<This block of commented-out lines of code should be removed.(Ü˙òûHéRMAJORZ
+CODE_SMELL

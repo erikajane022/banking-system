@@ -1,0 +1,15 @@
+
+XWeb:TableWithoutCaptionCheckΨ" Add a description to this table.(ϊγέHRMINORZBUG
+eWeb:AvoidCommentedOutCodeCheckθ"Remove this commented out code.(ΑάµΑύÿÿÿÿH…RMAJORZ
+CODE_SMELL
+[	Web:S1827Ψ"/Remove this deprecated "cellspacing" attribute.(ϊγέH„RMAJORZ
+CODE_SMELL
+[	Web:S1827Ψ"/Remove this deprecated "cellpadding" attribute.(ϊγέHƒRMAJORZ
+CODE_SMELL
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(χΓϋÿÿÿÿHύRMAJORZBUG
+J	Web:S5256Ψ"%Add "<th>" headers to this "<table>".(ϊγέH‚RMAJORZBUG
+[	Web:S1827Ι"/Remove this deprecated "cellpadding" attribute.(ϊγέHÿRMAJORZ
+CODE_SMELL
+[	Web:S1827Ι"/Remove this deprecated "cellspacing" attribute.(ϊγέH€RMAJORZ
+CODE_SMELL
+XWeb:TableWithoutCaptionCheckΙ" Add a description to this table.(ϊγέHώRMINORZBUG

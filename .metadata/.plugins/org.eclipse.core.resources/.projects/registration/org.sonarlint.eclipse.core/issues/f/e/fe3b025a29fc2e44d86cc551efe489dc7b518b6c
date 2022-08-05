@@ -1,0 +1,8 @@
+
+s
+java:S1128
+"GRemove this unused import 'org.hibernate.annotations.GenericGenerator'.(É›ü…HÛRMINORZ
+CODE_SMELL
+`
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(Ï˚ÊHHÒRMINORZ
+CODE_SMELL

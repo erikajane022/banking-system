@@ -1,0 +1,15 @@
+
+|	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŠâıHõRMINORZ
+CODE_SMELL
+r
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(ˆŠâıHöRCRITICALZVULNERABILITY
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ÈÉÍñøÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+i	java:S1064"9Replace this use of System.out or System.err by a logger.(ëÿ‘øÿÿÿÿHøRMAJORZ
+CODE_SMELL
+W
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼üHùRMINORZ
+CODE_SMELL
+
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿHûRMINORZ
+CODE_SMELL
